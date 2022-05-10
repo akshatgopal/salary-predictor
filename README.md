@@ -16,3 +16,10 @@ The purpose of this project is to use data transformation and machine learning t
 * matplotlib
 * Visual Studio Code (IDE).
 * Git.
+
+## Screen Shots
+![01 - home page](https://github.com/akshatgopal/salary-predictor/blob/main/screenshots/1.png)
+![02 - predict salary](https://github.com/akshatgopal/salary-predictor/blob/main/screenshots/2.png)
+![03 - explore](https://github.com/akshatgopal/salary-predictor/blob/main/screenshots/3.png)
+![02 - histogram](https://github.com/akshatgopal/salary-predictor/blob/main/screenshots/4.png)
+![02 - plot](https://github.com/akshatgopal/salary-predictor/blob/main/screenshots/5.png)
